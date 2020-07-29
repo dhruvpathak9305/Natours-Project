@@ -7,7 +7,7 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dhruv",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.5.3"
